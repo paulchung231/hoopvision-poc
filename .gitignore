@@ -1,0 +1,8 @@
+venv/
+data/
+checkpoints/
+*.zip
+YOLOX/
+__pycache__/
+*.pyc
+YOLOX_outputs/
