@@ -6,3 +6,4 @@ YOLOX/
 __pycache__/
 *.pyc
 YOLOX_outputs/
+videos/
